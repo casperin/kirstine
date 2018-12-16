@@ -1,0 +1,9 @@
+[package]
+name = "kirstine"
+version = "0.1.0"
+authors = ["Gorm Casper <git@mail.gormcasper.dk>"]
+categories = ["statistics"]
+description = "Functions for statistical analysis"
+license = "MIT"
+
+[dependencies]
